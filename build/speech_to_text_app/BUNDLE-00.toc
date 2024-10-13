@@ -1,0 +1,3 @@
+([('SpeechToTextApp',
+   '/Users/Gleb.Melnikov/Projects/dist/SpeechToTextApp',
+   'EXECUTABLE')],)
